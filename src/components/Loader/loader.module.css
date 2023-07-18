@@ -1,0 +1,15 @@
+.pinnerStyle  {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 5px solid #ccc;
+    border-top-color: #333;
+  };
+
+.containerStyle  {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    padding:10px;
+  };
